@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Bullet
+  - Rat
+  - ShootingArm
+  - Coin
+  - caca
+  - bird
+  - Mushroom
+  - obj
+  - Powerup
+  - KillingSlider
+  - Platform
+  - Spike
+  - Downgrade
+  - Dog
+  - GruzMother
+  - Up
+  - Wall
+  - ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - caca
+  - obj
+  - enemy
+  - bullet
+  - powerUps
+  - ground
+  - dog
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2510737851
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Obj close
+    uniqueID: 4134226673
+    locked: 0
+  - name: Player
+    uniqueID: 2917631319
+    locked: 0
